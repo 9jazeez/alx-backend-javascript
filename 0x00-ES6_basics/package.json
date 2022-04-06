@@ -1,0 +1,25 @@
+{
+  "name": "es6_basics",
+  "version": "1.0.0",
+  "description": "Alx basic advance class for ES6 backend",
+  "main": "0-constants.js",
+  "scripts": {
+    "test": "echo 'No test script yet' & exit 1",
+	"start": "node 1-main.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@9jazeez/alx-backend-javascript"
+  },
+  "author": "Abdulazeez O.",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "eslint": "^8.12.0",
+    "jest": "^27.5.1"
+  }
+}
