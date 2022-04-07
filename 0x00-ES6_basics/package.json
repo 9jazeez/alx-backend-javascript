@@ -5,7 +5,7 @@
   "main": "0-constants.js",
   "scripts": {
     "test": "echo 'No test script yet' & exit 1",
-	"start": "node 1-main.js"
+	"start": "node 2-main.js"
   },
   "type": "module",
   "repository": {
